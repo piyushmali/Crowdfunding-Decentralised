@@ -84,7 +84,7 @@ The "Coverage" folder contains the following files:
 To view the code coverage report, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/piyushmali/Crowdfunding-Decentralised.git`
-2. Navigate to the "Coverage" folder: `cd your-repo/Coverage`
+2. Navigate to the "Coverage" folder: `cd Crowdfunding-Decentralised/Coverage`
 3. Open `index.html` in a web browser.
 
 ## License
